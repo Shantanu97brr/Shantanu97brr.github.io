@@ -59,6 +59,6 @@ For interactive dashboard purposes also I again used the altair syntax where I k
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/Shantanu97brr/Shantanu97brr.github.io/blob/main/pagare-shantanu-assignment10.ipynb" text="The Analysis" %}
 </div>
 
