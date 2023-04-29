@@ -51,7 +51,7 @@ This can also be understood as the Hydrogeneration is easy to produce and handle
 1. Sturtevant, J., McManamay, R. A., & Jager, H. I. (2022). U.S. national water and energy land dataset for integrated multisector dynamics research. Scientific Data, 9(1). <https://doi.org/10.1038/s41597-022-01290-w>
 
 <div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
+{% include elements/button.html link="https://github.com/Shantanu97brr/Shantanu97brr.github.io/blob/main/data_proj.csv" text="The Data" %}
 </div>
 
 <div class="right">
